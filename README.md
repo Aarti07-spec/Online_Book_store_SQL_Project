@@ -1,57 +1,43 @@
 # Online_Book_store_SQL_Project
 
-##Project Overview:<br/ >
-This SQL project simulates a real-world online bookstore where customer behavior, book inventory, and order trends are analyzed using structured queries. It demonstrates the use of SQL for database design, data ingestion, and business insights generation.
+## Project Overview:
+<br/ >This SQL project simulates a real-world online bookstore where customer behavior, book inventory, and order trends are analyzed using structured queries. It demonstrates the use of SQL for database design, data ingestion, and business insights generation.
 
-## 🎯 Objectives: <br/ >
-Design and create normalized relational tables for books, customers, and orders.
-
+## 🎯 Objectives:
+<br/ >Design and create normalized relational tables for books, customers, and orders.
 Import real or synthetic CSV data into PostgreSQL.
-
 Write analytical SQL queries to extract actionable insights.
-
 Practice advanced concepts like JOIN, GROUP BY, HAVING, and AGGREGATION.
-
-## 🧱 Schema Design: <br/ >
-Tables Created:
+<br/ >
+## 🧱 Schema Design:
+<br/ >Tables Created:
 Books — Book catalog with title, genre, author, price, and stock.
-
 Customers — Customer info including location and contact.
-
 Orders — Order details including quantity and total amount.
-
+<br/ >
 Relationships:
 Orders.Customer_ID → References Customers.Customer_ID
-
 Orders.Book_ID → References Books.Book_ID
-
 ✔️ Normalized structure
 ✔️ Referential integrity through foreign keys
-
-## 📊 Key Queries & Analysis Performed: <br/ >
-🔹 Basic Insights
+<br/ >
+## 📊 Key Queries & Analysis Performed:
+<br/ >🔹 Basic Insights
 Books in a specific genre (Fiction, Fantasy)
-
 Books published after a given year
-
 Customers from a particular country
-
 Orders in a specific date range
-
+<br/ >
 🔹 Inventory & Sales
 Total stock of books
-
 Most and least expensive books
-
 Books with lowest stock
-
+<br/ >
 🔹 Customer Behavior
 Customers who placed multiple orders
-
 Customers who spent the most
-
 Cities where high-value orders came from
-
+<br/ >
 🔹 Business Metrics
 Revenue from all orders
 
@@ -61,8 +47,8 @@ Top 3 most expensive fantasy books
 
 Total quantity sold by author
 
-## 💡 Advanced Highlight: <br/ >
-sql
+## 💡 Advanced Highlight:
+<br/ >sql
 Copy code
 -- Remaining stock after fulfilling orders
 SELECT b.book_id, b.title, b.stock , COALESCE(SUM(o.quantity),0) AS Order_quantity,
@@ -73,8 +59,8 @@ GROUP BY b.book_id
 ORDER BY b.book_id;
 ✅ This query shows real-world inventory logic – a strong touch!
 
-## 🛠️ Technologies Used: <br/ >
-Tool	Purpose
+## 🛠️ Technologies Used:
+<br/ >Tool	Purpose
 PostgreSQL SQL engine and database
 pgAdmin GUI for managing PostgreSQL
 CSV Files Data import for books, customers
