@@ -1,7 +1,7 @@
 # Online_Book_store_SQL_Project
 
 ## Project Overview:
-<br/ >This SQL project simulates a real-world online bookstore where customer behavior, book inventory, and order trends are analyzed using structured queries. It demonstrates the use of SQL for database design, data ingestion, and business insights generation.
+<br>This SQL project simulates a real-world online bookstore where customer behavior, book inventory, and order trends are analyzed using structured queries. It demonstrates the use of SQL for database design, data ingestion, and business insights generation.
 
 ## 🎯 Objectives:
 <br/ >Design and create normalized relational tables for books, customers, and orders.
