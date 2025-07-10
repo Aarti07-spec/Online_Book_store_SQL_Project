@@ -1,6 +1,6 @@
 # Online_Book_store_SQL_Project
 
-##📝 Project Overview:
+##Project Overview:
 This SQL project simulates a real-world online bookstore where customer behavior, book inventory, and order trends are analyzed using structured queries. It demonstrates the use of SQL for database design, data ingestion, and business insights generation.
 
 ##🎯 Objectives:
