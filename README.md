@@ -47,13 +47,15 @@ Total quantity sold by author<br>
 ## 💡 Advanced Highlight:<br>
 sql
 Copy code<br>
--- Remaining stock after fulfilling orders
+-- Remaining stock after fulfilling orders<br>
+
 SELECT b.book_id, b.title, b.stock , COALESCE(SUM(o.quantity),0) AS Order_quantity,<br>
        b.stock - COALESCE(SUM(o.quantity),0) AS Remaining_Quantity
 FROM books b<br>
 LEFT JOIN orders o ON b.book_id=o.book_id<br>
 GROUP BY b.book_id <br>
 ORDER BY b.book_id;<br>
+
 ✅ This query shows real-world inventory logic – a strong touch!<br>
 
 ### 🛠️ Technologies Used:
