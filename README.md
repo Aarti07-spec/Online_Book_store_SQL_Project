@@ -4,11 +4,11 @@
 <br>This SQL project simulates a real-world online bookstore where customer behavior, book inventory, and order trends are analyzed using structured queries. It demonstrates the use of SQL for database design, data ingestion, and business insights generation.
 
 ## 🎯 Objectives:
-<br>Design and create normalized relational tables for books, customers, and orders.
-Import real or synthetic CSV data into PostgreSQL.
-Write analytical SQL queries to extract actionable insights.
-Practice advanced concepts like JOIN, GROUP BY, HAVING, and AGGREGATION.
-<br>
+<br>Design and create normalized relational tables for books, customers, and orders.<br>
+Import real or synthetic CSV data into PostgreSQL.<br>
+Write analytical SQL queries to extract actionable insights.<br>
+Practice advanced concepts like JOIN, GROUP BY, HAVING, and AGGREGATION.<br>
+
 ## 🧱 Schema Design:
 <br>Tables Created:
 Books — Book catalog with title, genre, author, price, and stock.<br>
@@ -48,22 +48,22 @@ Total quantity sold by author<br>
 sql
 Copy code<br>
 -- Remaining stock after fulfilling orders
-SELECT b.book_id, b.title, b.stock , COALESCE(SUM(o.quantity),0) AS Order_quantity,
+SELECT b.book_id, b.title, b.stock , COALESCE(SUM(o.quantity),0) AS Order_quantity,<br>
        b.stock - COALESCE(SUM(o.quantity),0) AS Remaining_Quantity
-FROM books b
-LEFT JOIN orders o ON b.book_id=o.book_id
+FROM books b<br>
+LEFT JOIN orders o ON b.book_id=o.book_id<br>
 GROUP BY b.book_id <br>
 ORDER BY b.book_id;<br>
 ✅ This query shows real-world inventory logic – a strong touch!<br>
 
-## 🛠️ Technologies Used:
-<br>Tool	Purpose
+### 🛠️ Technologies Used:
+<br>Tool Purpose
 PostgreSQL SQL engine and database<br>
 pgAdmin GUI for managing PostgreSQL<br>
 CSV Files Data import for books, customers<br>
 SQL DDL, DML, aggregation, joins, logic<br>
 
-## 📌 Highlights for GitHub README:<br>
+### 📌 Highlights for GitHub README:<br>
 📷 A screenshot of EDA for database in pgAdmin.<br>
 💬 Comments in .sql files<br>
 📥 Sample CSV files (with dummy data)<br>
