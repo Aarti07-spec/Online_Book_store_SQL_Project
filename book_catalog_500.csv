@@ -1,0 +1,501 @@
+Book_ID,Title,Author,Genre,Published_Y,Price,Stock
+1,Vision-oriented logi,Deborah Baldwin,Mystery,2011,39.89,10
+2,Multi-channeled miss,Donna Smith,Mystery,2006,6.83,40
+3,Persevering modular ,Logan Berg,Mystery,1960,49.99,62
+4,Innovative solution-,Crystal Medina,Biography,1990,6.93,63
+5,Optimized demand-dri,Tyler Wong DDS,Mystery,1910,46.53,88
+6,Up-sized eco-centric,Regina Jimenez,Fiction,1904,31.27,71
+7,Polarized leadingedg,Eric Fisher,Biography,2011,34.44,5
+8,Enterprise-wide asym,Jessica Olson,Non-Fiction,2003,27.93,9
+9,Front-line zero tole,Jessica Williams,Biography,1966,29.41,4
+10,Inverse foreground c,Lisa Sullivan,Science Fiction,1943,9.34,34
+11,Customizable zero to,Jesse Mitchell,Biography,1959,8.32,60
+12,Robust systematic le,Cindy Diaz,Fiction,1971,15.42,39
+13,Business-focused reg,Melanie Cooper,Romance,1950,13.03,45
+14,Open-source tangible,Erin Harding,Science Fiction,1918,7.66,37
+15,Multi-channeled exec,Kelsey Shaffer,Biography,2020,28.59,39
+16,Persistent mobile Lo,April Mccarthy,Romance,1968,10.93,69
+17,Team-oriented increm,Gabriella Patterson,Romance,2025,38.2,31
+18,Up-sized client-driv,John Clark,Biography,1962,32.11,63
+19,Decentralized upward,Julie Carey,Fiction,1951,28.45,4
+20,Diverse next generat,Anthony Randolph,Fantasy,2025,24.29,32
+21,Networked full-range,Michelle Hurley,Fantasy,1995,21.04,4
+22,Up-sized eco-centric,Jacob Brown,Non-Fiction,1917,46.0,8
+23,Enterprise-wide lead,Joshua Gibbs,Romance,1963,32.5,26
+24,Customizable human-r,Kristina Wells,Biography,1977,31.66,44
+25,Organized cohesive a,David Bryant,Romance,2000,48.76,61
+26,Programmable dedicat,Jared Garza,Fiction,1968,43.62,83
+27,Triple-buffered hybr,Pedro Figueroa,Non-Fiction,1937,44.43,24
+28,Profit-focused even-,Christina Beard,Biography,1921,28.77,61
+29,Versatile leadingedg,Lance Miller,Non-Fiction,1928,11.94,96
+30,Reverse-engineered s,Vincent Wells,Fiction,1998,9.12,50
+31,Business-focused int,Emily Ferguson,Non-Fiction,1985,15.28,45
+32,Assimilated zero tol,Natalie Garcia,Biography,2020,11.73,70
+33,Reactive non-volatil,Elizabeth Mason,Mystery,1985,48.69,57
+34,Devolved didactic op,Michael Carter,Mystery,1912,16.99,47
+35,Devolved grid-enable,Bonnie Bradley,Fantasy,1968,13.95,15
+36,Cross-group 24hour s,Thomas Stevens,Science Fiction,1910,29.54,10
+37,Customer-focused int,Bill Hodges,Science Fiction,1987,36.84,95
+38,Persistent stable pr,Natasha Gray,Non-Fiction,2013,50.0,84
+39,Reverse-engineered c,Cindy Todd,Biography,1989,7.12,4
+40,Configurable 6thgene,Theodore Lopez,Fantasy,1990,23.4,69
+41,Horizontal systemati,Mark Rios,Non-Fiction,1972,23.25,94
+42,Switchable next gene,Michelle Moreno,Non-Fiction,1998,44.2,24
+43,De-engineered compos,Mary Pham,Mystery,1939,27.83,24
+44,Multi-lateral impact,Jeffrey Carroll,Fantasy,1933,15.62,33
+45,Compatible intangibl,Rhonda Gross,Non-Fiction,1971,13.5,35
+46,Pre-emptive attitude,Steven Hernandez,Biography,1951,47.19,39
+47,Stand-alone incremen,Jessica Campos,Non-Fiction,1933,5.3,12
+48,Future-proofed optim,Christopher Crawford,Non-Fiction,1940,30.27,86
+49,Multi-layered direct,Troy Singh,Fiction,1941,44.32,49
+50,Managed regional arc,Fernando Mitchell MD,Fiction,1934,20.76,92
+51,Mandatory exuding fr,Devin Romero PhD,Biography,2023,27.31,11
+52,Focused contextually,Thomas Rogers,Science Fiction,1998,7.28,23
+53,Open-architected cli,Andrew Hardin,Fantasy,1976,42.21,78
+54,Upgradable value-add,Anthony Moreno,Biography,1917,7.91,38
+55,Cross-platform value,Kevin Webb,Fantasy,1950,46.64,3
+56,Front-line leadinged,Cole Griffith,Non-Fiction,2006,37.16,53
+57,Multi-lateral unifor,Denise Gibson,Non-Fiction,1981,15.77,29
+58,Universal system-wor,Rebecca Miller,Non-Fiction,2010,26.14,21
+59,Versatile systematic,Christina Bradford,Fiction,1983,32.94,27
+60,Intuitive multimedia,Laurie Ramirez DVM,Science Fiction,1947,15.78,16
+61,De-engineered multi-,Julia Hernandez,Fiction,1930,41.17,48
+62,Advanced coherent pr,Laura Adams,Non-Fiction,2010,27.76,36
+63,Ergonomic asynchrono,Doris Lopez,Fantasy,1981,6.1,82
+64,User-centric modular,Perry White,Mystery,2010,16.54,55
+65,Cross-platform unifo,Rodney Anderson,Biography,1965,20.95,32
+66,Assimilated asymmetr,Mr. George Williams,Mystery,1989,45.31,3
+67,Stand-alone object-o,Timothy Wilson DVM,Biography,1987,20.39,16
+68,Reduced composite mi,Jamie Ellis,Romance,1977,31.94,91
+69,Public-key multi-sta,Katrina Tran,Science Fiction,1976,40.19,0
+70,Re-contextualized lo,Holly Griffith,Fiction,1930,40.61,90
+71,Visionary secondary ,Heather Anderson,Biography,1911,19.91,47
+72,Intuitive dynamic st,Taylor Rose,Fiction,1959,9.27,79
+73,Quality-focused cont,Brian Johnson,Science Fiction,2022,47.81,76
+74,De-engineered optima,Kathleen Perez,Romance,1995,39.02,87
+75,Re-contextualized co,Gary Mercado,Fiction,1921,41.43,80
+76,Object-based methodi,Kayla Riggs,Mystery,1988,34.67,23
+77,Digitized empowering,Randall Wilkerson,Fantasy,1954,31.66,91
+78,User-centric dedicat,Jennifer Powers,Science Fiction,1924,46.04,32
+79,Operative optimal co,Cheryl Blake,Science Fiction,1927,38.51,42
+80,Enterprise-wide moti,Brianna Green,Fiction,2024,22.87,88
+81,Digitized 6thgenerat,Christopher Fox,Science Fiction,1987,6.59,76
+82,Inverse human-resour,Stephanie Liu,Non-Fiction,1901,12.56,38
+83,Triple-buffered tert,Bridget Cameron,Romance,2003,15.28,85
+84,Fundamental 24/7 ben,Amanda Kirk,Non-Fiction,1988,40.4,97
+85,Business-focused hig,Danny Johnson,Biography,1974,49.86,29
+86,Right-sized modular ,Brandon Wells,Science Fiction,1925,35.81,86
+87,Distributed cohesive,Steven Howard,Non-Fiction,1990,44.26,77
+88,Upgradable bottom-li,James Flowers,Science Fiction,2022,33.53,26
+89,Team-oriented bifurc,Teresa Williams MD,Romance,2025,18.43,70
+90,Team-oriented value-,Nathaniel Wright,Non-Fiction,2007,7.39,74
+91,Visionary stable app,Amanda Norris,Fiction,1917,22.02,59
+92,Expanded bifurcated ,Allison Schwartz,Romance,2009,33.85,21
+93,Configurable didacti,Heather Hill,Fiction,1914,16.81,10
+94,Switchable secondary,James Reed,Mystery,1995,24.35,33
+95,Streamlined global f,Matthew Rodgers,Mystery,1996,35.66,19
+96,Programmable intangi,Lauren Barron,Science Fiction,1992,18.05,92
+97,Persevering methodic,Nicole Williams,Science Fiction,1903,45.33,41
+98,Assimilated incremen,Shirley Hess PhD,Science Fiction,2022,23.79,41
+99,Advanced 6thgenerati,Jackson Smith,Romance,1993,24.41,41
+100,Devolved intangible ,Hannah Carrillo,Fiction,1920,14.26,89
+101,Phased dynamic orche,Molly Hunter,Fiction,1944,16.21,100
+102,Fully-configurable c,Rachel Rogers,Science Fiction,1941,13.7,45
+103,Pre-emptive interact,Kimberly Strickland,Non-Fiction,1958,17.22,75
+104,Self-enabling compos,Andrew Brown,Fiction,1908,34.27,99
+105,Advanced fault-toler,Leslie Foster,Non-Fiction,2020,30.03,5
+106,Seamless impactful f,Paula Johnson,Mystery,1931,14.78,43
+107,Fully-configurable e,Stephen Ray,Fantasy,1903,7.29,18
+108,Synergized web-enabl,Tyler Brady,Science Fiction,1926,31.3,46
+109,Managed optimal fram,Amy Evans,Non-Fiction,2008,48.79,61
+110,Integrated backgroun,Travis Dunn,Non-Fiction,1942,27.02,42
+111,Reactive responsive ,Crystal Jackson,Science Fiction,1993,35.05,9
+112,Team-oriented hybrid,Russell Mahoney,Romance,2024,14.9,39
+113,User-friendly stable,Victoria Anderson,Mystery,1943,15.4,23
+114,Extended 3rdgenerati,George Reynolds,Romance,1911,13.22,42
+115,Monitored contextual,Angela Lane,Romance,2014,43.93,31
+116,Enterprise-wide empo,Robin Carter,Science Fiction,1964,43.49,49
+117,Networked 24hour all,Sara Brooks,Romance,1991,25.34,72
+118,Re-contextualized in,William Mack,Fantasy,2014,12.63,73
+119,Decentralized 6thgen,Kathy Kelly,Romance,2024,22.63,66
+120,Robust 6thgeneration,David Lucas,Mystery,1964,48.78,30
+121,Diverse interactive ,Roger Hernandez,Biography,2016,36.94,75
+122,Seamless 3rdgenerati,Patricia Benton,Science Fiction,2012,14.55,21
+123,Self-enabling tangib,Steven Perry,Fiction,1941,15.43,0
+124,Expanded bandwidth-m,Michael Rodriguez,Fantasy,2008,48.57,23
+125,De-engineered dynami,Allison Cameron,Biography,1925,22.61,73
+126,Organic 24/7 moderat,Paul Castro,Non-Fiction,1948,44.56,39
+127,Digitized high-level,Mitchell King,Biography,1961,46.55,79
+128,Ameliorated static t,Michael Hancock,Science Fiction,1935,30.13,42
+129,Realigned high-level,Erica Myers,Biography,1915,45.54,38
+130,Profit-focused syste,John Luna,Fantasy,1932,5.18,73
+131,Proactive 3rdgenerat,William Vazquez,Fantasy,1930,20.76,99
+132,Distributed bandwidt,James Garza,Mystery,1996,33.59,76
+133,Reduced zero adminis,Nicholas Miller,Mystery,1937,33.94,54
+134,Seamless executive p,Janet Gonzalez,Fiction,1925,12.73,41
+135,Optimized secondary ,Charles Cox,Fantasy,1944,34.2,67
+136,Self-enabling second,Robert Stewart,Non-Fiction,2012,28.05,58
+137,Extended homogeneous,James Blankenship,Romance,2017,18.06,84
+138,Exclusive zero toler,Katherine Neal,Mystery,1966,40.3,100
+139,Optimized background,Kimberly Ortiz,Romance,1950,14.23,48
+140,Digitized 24hour arc,Eddie Fischer,Science Fiction,1941,40.42,33
+141,Enhanced global time,Maria James,Romance,2017,35.42,87
+142,Programmable radical,Nicholas Wright,Biography,2004,34.65,19
+143,Customer-focused imp,Daniel Williams,Science Fiction,1938,38.29,76
+144,Up-sized global coll,Robert Carlson,Science Fiction,2023,37.18,21
+145,Diverse systemic ben,Rachel Morgan,Science Fiction,1924,45.36,74
+146,Right-sized intangib,Christina Gilbert MD,Non-Fiction,2002,30.69,74
+147,Persistent 24hour ap,Stephanie Higgins,Mystery,1918,15.19,73
+148,Future-proofed upwar,Deanna Kim,Fantasy,1966,37.16,87
+149,Extended analyzing i,Tony Williams,Biography,1917,20.46,18
+150,Horizontal regional ,Bailey Hicks,Biography,1938,26.21,59
+151,Extended high-level ,Sarah Boyd DVM,Biography,2007,27.67,1
+152,Switchable coherent ,Angela Thomas,Science Fiction,1914,38.04,18
+153,Intuitive impactful ,Steven Garcia,Non-Fiction,1934,27.93,3
+154,Implemented hybrid c,Thomas Rose,Fantasy,2000,15.08,7
+155,Down-sized logistica,Anthony Montoya,Non-Fiction,1942,47.84,94
+156,Grass-roots exuding ,Lisa Hayes,Fiction,1931,28.52,55
+157,Programmable 6thgene,Edward Li,Mystery,1988,10.79,24
+158,User-centric tertiar,John Hernandez,Biography,2006,46.64,76
+159,Open-architected 6th,Sean Evans,Fantasy,1991,30.37,51
+160,De-engineered unifor,Cody Henry,Fantasy,1908,24.18,22
+161,Multi-lateral homoge,Jennifer Good,Science Fiction,1995,5.3,91
+162,Grass-roots 4thgener,Jason Garcia,Non-Fiction,2013,42.47,99
+163,Triple-buffered obje,Susan Lopez,Biography,1909,45.08,90
+164,Automated 24hour wor,Jennifer Taylor,Fantasy,1961,26.82,19
+165,Persevering multi-st,Randall Sanchez,Science Fiction,1918,48.78,14
+166,Persevering local ha,Taylor Hunter,Mystery,1991,24.91,32
+167,Optimized executive ,Brittney Garcia,Science Fiction,2014,44.87,53
+168,Inverse holistic foc,Andrea Hicks,Mystery,1923,33.72,0
+169,Optimized 5thgenerat,Dr. Allison Dillon,Mystery,1961,9.25,14
+170,Horizontal direction,Chloe Warner,Fiction,2008,9.33,31
+171,Universal mobile par,James Thomas,Science Fiction,1935,6.19,86
+172,Focused stable archi,Alyssa Russell,Biography,2010,20.09,23
+173,Inverse value-added ,Zachary Golden,Mystery,1933,36.39,81
+174,Optimized leadingedg,Paul Herrera,Science Fiction,1933,48.72,26
+175,Virtual needs-based ,Karen Smith,Mystery,1947,8.81,15
+176,Enterprise-wide need,Jose Mitchell,Mystery,1976,45.86,72
+177,Compatible intangibl,Greg Salas,Fiction,1904,44.87,7
+178,Expanded system-wort,Amy Hernandez,Non-Fiction,1931,16.66,24
+179,Monitored eco-centri,Deanna Hatfield,Fiction,1986,12.09,53
+180,Fully-configurable o,Connie Jennings,Biography,1930,13.07,50
+181,Open-architected for,Lauren Mack,Science Fiction,1904,32.06,25
+182,Optimized discrete s,Robert Mitchell,Non-Fiction,1974,36.83,75
+183,Advanced leadingedge,Daniel Ballard,Romance,1929,38.28,5
+184,Reverse-engineered g,Shannon Benson,Mystery,1967,12.47,24
+185,Face-to-face backgro,Mike Holmes,Non-Fiction,1938,13.71,75
+186,Open-source bandwidt,Jennifer Smith,Fantasy,1991,46.34,0
+187,Secured intangible p,Samantha Meyer,Mystery,2003,36.17,42
+188,Switchable zero admi,Jonathan Jones,Science Fiction,1932,14.27,89
+189,Reverse-engineered r,James Small,Mystery,1942,48.85,13
+190,Inverse transitional,Brittany Scott,Biography,1924,12.37,57
+191,Realigned regional u,Maxwell Kramer,Romance,2021,38.33,48
+192,Optimized asymmetric,Frank Steele,Non-Fiction,1947,9.87,49
+193,Secured non-volatile,Brandy Smith,Science Fiction,1911,11.86,52
+194,Phased disintermedia,Ryan Murray,Fantasy,1967,40.85,15
+195,Organic context-sens,Timothy Patel,Romance,1973,12.27,64
+196,Versatile dedicated ,George Ortiz,Biography,1956,45.4,8
+197,Total user-facing co,Ann Adams,Romance,1917,29.42,27
+198,Right-sized incremen,Richard Stone,Science Fiction,2019,26.44,4
+199,Networked content-ba,Andrew Watson,Non-Fiction,2016,30.1,96
+200,Intuitive leadingedg,Joe Duncan,Mystery,1924,45.95,46
+201,Advanced content-bas,Angela Allen,Non-Fiction,1984,27.29,85
+202,Realigned asymmetric,Brandon Crawford,Biography,2008,23.05,49
+203,Multi-channeled exud,Kevin Phillips,Romance,1901,36.83,69
+204,Function-based metho,Gina Harding,Biography,1987,39.57,0
+205,Implemented full-ran,Lindsey Lee,Science Fiction,1947,41.75,78
+206,Innovative cohesive ,Jesse Jacobs,Fiction,1934,46.09,77
+207,Multi-tiered optimiz,Marcus Blevins,Fantasy,1982,28.4,95
+208,Open-source systemat,Justin Schultz,Science Fiction,1996,8.25,93
+209,Re-engineered value-,Jesus Johnson,Non-Fiction,1907,42.69,94
+210,Public-key contextua,Emily Sherman,Fiction,1921,43.26,25
+211,Ergonomic dynamic st,Alexander Jones,Science Fiction,1958,32.26,8
+212,Stand-alone exuding ,Lisa Carpenter,Fantasy,1963,33.37,87
+213,Persistent clear-thi,Kimberly Rowland,Fiction,1917,39.86,90
+214,Reduced exuding capa,Lori Bryant,Romance,1999,49.08,80
+215,Extended optimizing ,Dominic Whitney,Mystery,1938,11.01,62
+216,Cross-group 6thgener,William Edwards,Science Fiction,2013,21.04,46
+217,Optimized systematic,Diane Lindsey,Science Fiction,1992,9.59,41
+218,Focused client-serve,Haley Dunn,Non-Fiction,1947,20.98,97
+219,Phased multi-state e,James Burgess,Biography,2025,17.17,41
+220,Configurable 24hour ,Sonia Barnes,Fantasy,2018,23.57,54
+221,Profit-focused syste,David Forbes,Mystery,2004,38.49,85
+222,Configurable multi-t,Michael Henderson,Romance,1923,49.61,25
+223,Implemented methodic,Mark May,Science Fiction,2024,10.19,7
+224,Up-sized attitude-or,Carolyn Saunders,Science Fiction,1973,38.37,9
+225,Digitized secondary ,Nicole Wright,Fiction,1900,45.58,30
+226,Synchronized logisti,Anthony Scott,Biography,1998,48.55,23
+227,Face-to-face executi,Casey Alexander,Science Fiction,1948,27.61,45
+228,Profit-focused deman,Anthony Campbell,Romance,1905,12.19,9
+229,Managed uniform thro,David Marshall,Mystery,2014,14.89,100
+230,Re-contextualized re,Kelly Mullen,Science Fiction,1941,35.54,17
+231,Face-to-face non-vol,Heather Adams,Science Fiction,2015,11.89,65
+232,Expanded clear-think,Kevin Oconnor,Romance,1998,35.53,39
+233,Exclusive demand-dri,Allen Lamb,Biography,1909,28.48,74
+234,Down-sized even-keel,Deanna Shepherd,Biography,2006,47.31,92
+235,User-friendly client,Jason Heath,Mystery,1977,26.14,99
+236,Networked 24/7 appro,Robert Burnett,Mystery,1938,19.49,1
+237,Compatible radical i,Norman Jackson,Science Fiction,1949,23.89,44
+238,Enterprise-wide need,Mrs. Samantha Boyd,Romance,1992,37.36,31
+239,Decentralized direct,Rebekah Clark,Non-Fiction,1971,20.92,10
+240,Re-engineered asynch,Kenneth Jones,Fantasy,1965,34.08,60
+241,Profound 4thgenerati,Tiffany Davidson,Romance,1984,33.99,77
+242,Operative real-time ,Jose Martinez,Mystery,1943,23.45,68
+243,Multi-channeled dema,Ana Vazquez,Mystery,1916,14.17,24
+244,Profit-focused actua,Amanda Schroeder,Romance,1966,35.73,19
+245,Open-source 6thgener,Walter Reed,Mystery,2022,48.4,42
+246,Proactive motivating,Ronald Escobar,Biography,1987,45.15,7
+247,Versatile multimedia,Monica Soto,Fiction,2002,35.52,76
+248,Multi-lateral static,Lee Thompson,Biography,2000,14.58,20
+249,Secured well-modulat,Erin Dominguez,Science Fiction,1907,7.81,86
+250,Digitized didactic h,Kevin Hill,Fiction,1988,34.82,41
+251,Total attitude-orien,Nicole Stone,Mystery,1997,36.33,100
+252,Fundamental mobile o,Sandra Smith,Romance,1970,12.3,19
+253,Cloned bandwidth-mon,Christopher Mason,Fantasy,2001,12.92,48
+254,Switchable intermedi,Cathy Wright,Romance,1990,45.17,70
+255,Implemented dynamic ,Nathan Smith,Biography,1914,33.09,18
+256,Persistent context-s,Allison Hodge,Romance,1952,21.62,5
+257,Optimized holistic e,Teresa May,Romance,2005,37.27,50
+258,Seamless asynchronou,Sydney Gray,Science Fiction,1960,23.12,42
+259,Assimilated motivati,Natalie Jenkins,Biography,2013,14.1,54
+260,Object-based impactf,Andrew Campbell,Fantasy,1963,24.78,73
+261,Customer-focused non,Lisa Burton,Non-Fiction,1957,29.02,43
+262,Open-source holistic,Douglas Maldonado,Romance,1996,29.34,13
+263,Multi-lateral leadin,Tony Richardson,Romance,1951,14.06,89
+264,Ameliorated modular ,Angela Johnson,Fantasy,2017,9.88,34
+265,Adaptive maximized d,Christina Anderson,Mystery,2019,10.07,31
+266,Adaptive even-keeled,Gabriel Young,Biography,1999,34.39,20
+267,Programmable methodi,William Smith,Science Fiction,2004,37.59,91
+268,Cross-platform backg,Elizabeth Bryan,Science Fiction,1966,28.51,83
+269,Sharable analyzing m,Veronica Monroe,Romance,2014,11.18,91
+270,Advanced 4thgenerati,Jody Johnson,Fantasy,1973,45.92,12
+271,Polarized executive ,Mrs. Marilyn Wilson,Non-Fiction,1958,18.86,15
+272,Sharable hybrid time,Mr. Benjamin Moore,Fiction,1981,45.01,5
+273,Reduced transitional,Ms. Donna Harvey DDS,Romance,1966,38.94,100
+274,Fully-configurable s,Barbara Rowe,Mystery,1971,22.91,86
+275,User-friendly optima,Rebecca Ellis,Mystery,1942,42.72,54
+276,Secured non-volatile,Ryan Snyder,Fiction,1901,12.11,60
+277,Expanded full-range ,Natalie Green,Fantasy,2017,46.66,52
+278,Multi-layered system,Michelle Hicks,Science Fiction,2015,40.73,22
+279,Advanced tertiary in,Derek Woods,Romance,1954,33.49,81
+280,Managed client-serve,Andrea Molina,Biography,1951,17.48,4
+281,Vision-oriented clie,Susan Erickson,Biography,1961,18.14,32
+282,Distributed bottom-l,Mary Leonard,Science Fiction,2024,21.56,17
+283,Business-focused sol,Larry Wilson,Non-Fiction,1951,46.57,24
+284,Diverse modular hub,Thomas Walker,Non-Fiction,1960,6.31,96
+285,Mandatory 24hour pro,Zachary Tanner,Fiction,1961,19.29,80
+286,Vision-oriented dema,Kimberly Melendez,Fiction,1987,44.23,1
+287,Programmable optimal,Michael Osborn,Science Fiction,1952,48.5,14
+288,Extended homogeneous,James Gay,Fiction,2010,36.11,55
+289,Polarized global wor,Veronica Delacruz,Mystery,1911,35.35,45
+290,Focused full-range s,Steven Baldwin,Biography,1918,20.95,99
+291,Implemented mission-,Jennifer Hammond,Fiction,1977,26.11,14
+292,Decentralized neutra,Anna Anderson,Mystery,1901,10.37,60
+293,Enterprise-wide cohe,Stephanie Hansen,Science Fiction,1900,35.12,48
+294,Reverse-engineered z,Jesus Yoder,Biography,2021,33.81,63
+295,Front-line discrete ,Trevor Contreras,Biography,1969,22.26,21
+296,Reactive 4thgenerati,Shelby Watts,Science Fiction,1995,13.68,31
+297,Right-sized client-s,Elizabeth Robinson,Fantasy,1910,16.6,76
+298,Open-source holistic,Eugene Whitney,Biography,1977,40.15,75
+299,Pre-emptive modular ,Christian Dyer,Biography,2001,11.07,10
+300,Devolved bandwidth-m,Joel Mays,Romance,2006,22.53,75
+301,Synergized static co,Christopher Clark,Science Fiction,1995,22.81,65
+302,Multi-layered asynch,Jennifer Jackson,Fantasy,2015,28.9,96
+303,Synergized systemati,Amanda Massey,Romance,1982,39.67,100
+304,Decentralized contex,Ann Robles,Fiction,1964,13.93,72
+305,Cloned motivating pr,Jose Walters,Science Fiction,1977,39.12,96
+306,Advanced contextuall,Taylor Ferguson,Biography,1932,49.76,63
+307,Cross-platform scala,Shawn Jensen,Biography,1952,9.16,90
+308,Persevering zero tol,Sheila Reeves,Science Fiction,1975,39.54,59
+309,Intuitive fresh-thin,Julie Murray,Non-Fiction,1997,21.35,33
+310,Focused foreground e,Robert Ingram,Biography,1900,24.67,25
+311,Team-oriented heuris,Rodney Williams,Science Fiction,1905,27.6,1
+312,Expanded uniform dat,Natalie Cochran,Fiction,1902,33.8,89
+313,Public-key even-keel,Mary West,Biography,1914,28.31,55
+314,Seamless responsive ,John Yang,Fantasy,1924,45.05,33
+315,Re-engineered intang,Joan Ward,Science Fiction,1915,14.76,59
+316,Public-key needs-bas,Samuel Taylor,Romance,1925,27.62,97
+317,Sharable explicit co,Kara Mills,Romance,2014,42.44,3
+318,Multi-layered needs-,Christopher Fox,Fiction,2011,41.75,69
+319,Multi-channeled maxi,David Oliver,Fantasy,2008,36.6,35
+320,Monitored optimal ne,Jason Crawford,Mystery,1916,21.47,57
+321,Profound value-added,Susan Gonzales,Biography,1993,43.31,88
+322,Synchronized 6thgene,Terry Arnold,Romance,1935,24.1,78
+323,Enhanced web-enabled,Gary Carpenter,Fantasy,1985,15.74,10
+324,Ergonomic optimal cu,Mary Brown,Fantasy,1984,35.63,57
+325,Distributed homogene,Jonathan Turner,Romance,2022,33.44,0
+326,Sharable encompassin,Omar Rogers,Fiction,1950,43.51,84
+327,Adaptive full-range ,Ronald Wood,Biography,1975,7.76,40
+328,Devolved upward-tren,Barbara Lee,Fantasy,1958,22.88,21
+329,Digitized bifurcated,Kendra Villarreal,Fiction,1959,15.91,39
+330,Assimilated 24hour w,Mr. Austin Gilbert MD,Mystery,1922,14.85,17
+331,Networked dedicated ,Anna Mann,Non-Fiction,1968,38.49,60
+332,Ameliorated system-w,Stephen Alexander,Romance,1916,22.51,68
+333,Optional zero tolera,Kenneth Petersen,Fiction,1939,9.47,87
+334,Implemented motivati,Christina Taylor,Non-Fiction,1913,46.21,37
+335,Right-sized modular ,Chris Fisher,Fiction,1923,8.74,52
+336,Synchronized foregro,Jessica Tucker,Non-Fiction,1972,16.27,60
+337,Synergized intangibl,Zachary Andersen,Biography,1965,32.25,33
+338,Expanded full-range ,Donald Landry,Mystery,1999,7.43,25
+339,Reactive explicit ne,Natasha Johnson,Fantasy,1998,42.24,65
+340,Integrated dedicated,William Stone,Romance,1908,11.37,51
+341,Digitized incrementa,Dr. Maria Snyder PhD,Fiction,2013,43.62,99
+342,Switchable holistic ,Brian Gross,Fantasy,2024,34.33,25
+343,Seamless non-volatil,Melissa Lucas,Science Fiction,1993,32.82,90
+344,Realigned asynchrono,Rebecca Patterson,Biography,2000,47.63,83
+345,Enhanced contextuall,Brandy Buchanan,Biography,2010,33.54,57
+346,De-engineered dedica,Justin Jones,Science Fiction,2012,27.46,56
+347,De-engineered client,Jared Brooks,Fantasy,1915,49.31,61
+348,Down-sized asymmetri,Kelly Greene,Romance,1954,17.87,92
+349,Configurable context,Sherry Cox,Romance,1938,10.34,82
+350,Versatile leadingedg,Johnny Figueroa,Biography,2015,14.93,96
+351,Pre-emptive cohesive,Kerry Waters,Fiction,1948,17.83,8
+352,Visionary dynamic im,Chris Moore,Non-Fiction,1911,6.24,28
+353,Distributed 5thgener,Christina Phelps,Science Fiction,1966,7.63,58
+354,Cross-platform syste,Christopher Miller,Fantasy,1914,34.99,44
+355,Assimilated encompas,Mark Castro,Fiction,1976,38.41,7
+356,Devolved analyzing a,Carl King,Romance,2002,48.87,95
+357,Self-enabling maximi,Patricia Kirby,Fiction,2000,17.7,49
+358,User-centric zero-de,Mrs. Jill Elliott DVM,Fiction,1946,44.25,46
+359,Cross-group methodic,Kara Anthony,Non-Fiction,1921,11.21,47
+360,Down-sized attitude-,Raymond Smith,Biography,1934,16.75,10
+361,Self-enabling increm,Jeffrey Rasmussen,Romance,1909,27.31,75
+362,De-engineered dedica,Robert Moore,Non-Fiction,1983,38.29,82
+363,Self-enabling clear-,Paul White,Fantasy,1907,7.44,42
+364,Optimized 6thgenerat,Cynthia Boyer,Mystery,2024,46.06,96
+365,Reactive asymmetric ,Michael Bryant,Non-Fiction,1928,41.0,73
+366,Public-key zero-defe,Ian Foster,Science Fiction,1962,31.06,58
+367,Object-based dedicat,Marissa Hall,Fiction,2009,28.46,96
+368,Centralized explicit,Laurie Cruz,Romance,1905,11.57,8
+369,User-friendly demand,Tammy Mahoney,Mystery,1988,43.79,19
+370,Visionary national t,Alexandra Reed,Fantasy,1906,15.45,92
+371,Phased intermediate ,Anthony Campbell,Biography,1981,33.33,35
+372,Seamless next genera,Daniel Holmes,Mystery,1936,14.6,65
+373,Open-source user-fac,Anthony Fields,Fantasy,1981,39.41,47
+374,Object-based systema,Anthony Wyatt,Romance,1926,5.93,82
+375,User-friendly logist,Susan Rivers,Non-Fiction,1930,38.97,29
+376,Realigned national s,Jeremy Benjamin,Biography,1969,13.89,45
+377,Integrated direction,Patrick Hart,Mystery,1947,33.75,31
+378,Multi-lateral cohere,Alexis Banks,Mystery,1916,20.62,12
+379,User-centric client-,Kimberly Larsen,Science Fiction,1927,28.92,19
+380,Monitored content-ba,Max Woods,Biography,1984,38.76,31
+381,Fundamental logistic,Gary Lee,Fiction,1974,14.77,73
+382,Profit-focused local,Sean Dunn,Non-Fiction,1940,21.44,64
+383,Innovative demand-dr,Matthew Moody,Science Fiction,2023,37.58,26
+384,Ergonomic content-ba,Kelly Schneider,Fantasy,1980,40.62,6
+385,Compatible eco-centr,Angela Garrison,Fiction,2015,14.26,91
+386,Synergized global mi,Dylan Davila,Romance,1900,7.38,78
+387,Automated fault-tole,Monica Rivers,Science Fiction,1987,43.34,23
+388,Synchronized actuati,Nancy Padilla,Science Fiction,1925,21.09,47
+389,Right-sized empoweri,Jackie Lawrence,Fiction,2004,30.0,11
+390,Exclusive asymmetric,Ian Thomas,Mystery,1902,44.37,42
+391,Fully-configurable f,Brittany Murphy,Fiction,1997,25.64,61
+392,Distributed multi-st,Dr. Cody Christensen DDS,Non-Fiction,1973,42.38,41
+393,Automated directiona,Christie Gomez,Fiction,2020,30.82,44
+394,Grass-roots demand-d,Jackson Mccann,Biography,1990,27.18,67
+395,Open-source zero tol,Teresa Livingston,Romance,2015,38.76,46
+396,Advanced context-sen,Seth Aguilar,Science Fiction,1914,19.34,31
+397,Decentralized full-r,Jacob Miller,Biography,2014,9.8,3
+398,Public-key optimizin,Russell Gutierrez,Non-Fiction,1961,14.87,45
+399,Cloned zero toleranc,Jonathan Palmer,Fantasy,1992,13.87,25
+400,Secured motivating k,Jeffrey Hale,Non-Fiction,1951,5.79,68
+401,Phased well-modulate,James Barrett,Romance,2009,14.93,4
+402,Integrated 6thgenera,Angel Brown,Non-Fiction,1907,24.95,94
+403,Decentralized intang,Joseph Carlson,Romance,1962,27.49,6
+404,Fully-configurable l,Stephanie Davis,Biography,1998,25.76,52
+405,Self-enabling asynch,Christopher Moore,Non-Fiction,1916,25.27,65
+406,Ergonomic fault-tole,Monica Weeks,Fantasy,1907,42.73,1
+407,Synergized homogeneo,Andrea Carroll,Fantasy,1948,31.2,52
+408,Quality-focused dema,Sarah Webb,Romance,1975,25.74,47
+409,Multi-channeled cohe,Joseph Holland,Biography,1946,28.48,66
+410,Upgradable 3rdgenera,Julia Duncan,Fantasy,1966,19.8,69
+411,Extended client-driv,Jessica Mora,Biography,1983,12.16,48
+412,Multi-channeled seco,Sabrina Cox,Romance,2008,17.65,5
+413,Compatible client-se,Dennis Frye,Science Fiction,1905,16.29,16
+414,De-engineered interm,Karen Fox,Romance,1935,12.65,30
+415,Networked global pro,William Paul,Mystery,1996,10.62,71
+416,Switchable 5thgenera,Kevin Bradshaw,Biography,2013,48.12,98
+417,Visionary neutral co,Thomas Daugherty,Fiction,1967,15.17,68
+418,Advanced 5thgenerati,Mitchell White,Fiction,1905,37.71,28
+419,Horizontal real-time,Rachel Colon,Mystery,1998,44.26,83
+420,Extended next genera,Martin Leonard,Biography,2005,23.58,58
+421,Re-contextualized ac,Jill Robbins,Non-Fiction,2005,18.52,26
+422,Balanced holistic or,Russell Potter,Romance,1903,11.95,100
+423,Persistent attitude-,William Fleming,Non-Fiction,1973,7.8,76
+424,Integrated context-s,Maria Osborn DDS,Science Fiction,1971,40.96,95
+425,Seamless asymmetric ,Monica Phillips,Science Fiction,1957,44.29,90
+426,Synergized 5thgenera,Andrew Escobar,Fantasy,1914,24.27,26
+427,Organized non-volati,Lauren Oliver,Fantasy,1917,48.31,87
+428,Multi-layered cohesi,Daniel Smith,Science Fiction,1904,23.43,25
+429,Synergized dynamic p,Chelsea Reed,Romance,1917,19.44,37
+430,Implemented intangib,Kristen Johnson,Science Fiction,1957,34.35,42
+431,Centralized intermed,Jeffrey Grimes,Mystery,1973,41.91,71
+432,Organized analyzing ,Clinton Scott,Science Fiction,2022,19.96,76
+433,Organized context-se,Christopher Richards,Non-Fiction,1972,17.62,61
+434,Phased asymmetric so,Pamela Meyer,Biography,1983,37.55,62
+435,Profit-focused asymm,Daniel Gonzales,Biography,1974,43.59,38
+436,Optimized transition,George James,Romance,1983,8.96,47
+437,Ameliorated multi-st,Jill Moore,Science Fiction,1961,48.98,1
+438,User-centric real-ti,Eric Sharp,Non-Fiction,1911,17.46,64
+439,Cross-platform upwar,Alicia Ford,Fantasy,1901,36.79,85
+440,Adaptive tangible ar,Jose Blankenship,Biography,1902,5.66,6
+441,Networked bottom-lin,Jessica Jackson,Mystery,1963,43.8,37
+442,De-engineered logist,Melissa Maldonado,Non-Fiction,1986,13.69,8
+443,Fully-configurable e,Terry Davis,Biography,1995,35.12,97
+444,Enhanced 5thgenerati,Eric Larson,Fiction,1959,16.53,84
+445,Grass-roots leadinge,Samantha Meyer,Fantasy,2013,36.13,74
+446,Business-focused opt,Brandon Cole,Non-Fiction,1936,47.64,26
+447,Public-key local ada,Todd Williams,Science Fiction,1968,19.62,41
+448,Upgradable cohesive ,Matthew White MD,Fantasy,1903,31.99,65
+449,Optimized attitude-o,Thomas Combs,Fiction,1997,26.8,83
+450,Universal well-modul,Marcus Phillips,Romance,1963,33.24,52
+451,Ergonomic non-volati,William Brown,Romance,1916,10.98,94
+452,Reactive secondary c,Daniel Thomas,Science Fiction,1972,34.3,47
+453,Operative object-ori,David Johnson,Mystery,2017,27.84,87
+454,Devolved intermediat,Samantha Garcia,Mystery,1952,43.13,48
+455,Reactive regional mo,Joel Phillips,Non-Fiction,1977,14.56,17
+456,Adaptive explicit al,Martha Miller,Fiction,2010,16.94,68
+457,Public-key system-wo,Daniel Foley,Romance,1904,11.71,50
+458,Adaptive encompassin,Dr. Tina Mercado MD,Fiction,2004,45.85,44
+459,Enhanced dedicated p,Margaret Wilson,Non-Fiction,1969,26.82,2
+460,Self-enabling maximi,Debra Cook,Romance,1952,9.69,37
+461,Persevering static a,Kristin Taylor,Romance,2005,37.21,80
+462,Profound heuristic c,Austin Benton,Fiction,2002,45.26,41
+463,Digitized context-se,Larry Stewart,Romance,1987,48.56,6
+464,Streamlined grid-ena,James Avila,Mystery,2025,14.93,60
+465,Right-sized tangible,Jennifer Burke,Science Fiction,1990,38.62,8
+466,Organic empowering d,Cory Cowan,Romance,1945,49.08,33
+467,Function-based direc,Misty Mullins,Mystery,1950,13.7,44
+468,Customizable next ge,Vincent Hodge II,Romance,1926,16.17,38
+469,Robust zero administ,Robin Lynch,Non-Fiction,1909,32.21,76
+470,Expanded mobile inst,Brittany Adams,Mystery,1961,42.08,46
+471,Enterprise-wide scal,Lisa Garrett,Non-Fiction,1944,17.27,90
+472,Switchable motivatin,Denise Perry,Fiction,1970,45.38,18
+473,Synergized web-enabl,Luis Smith,Science Fiction,1905,22.81,99
+474,Enhanced optimizing ,Hannah Williams,Biography,2016,18.11,54
+475,Balanced encompassin,Steven Frey,Mystery,1913,5.3,96
+476,Open-source demand-d,Michelle Olsen,Non-Fiction,1995,18.83,66
+477,Re-engineered empowe,Brittany Rangel,Biography,1939,38.04,69
+478,De-engineered explic,Allen Simmons,Fiction,2004,38.58,30
+479,Reduced dynamic leve,Carolyn Koch,Fantasy,2012,28.33,19
+480,Switchable modular m,Lauren Harris,Biography,1923,33.28,37
+481,Total next generatio,Michael Cook,Fiction,2018,43.4,91
+482,Self-enabling zero-d,Jacob Clark,Non-Fiction,1972,34.75,26
+483,Robust eco-centric s,Joshua Caldwell,Science Fiction,2016,44.37,41
+484,Persevering clear-th,Sandra Gomez,Biography,1971,24.62,71
+485,Mandatory well-modul,Steven Johnson,Non-Fiction,1978,22.44,61
+486,Synergistic composit,Janice Sparks,Romance,1909,5.82,43
+487,Function-based conte,Leroy Smith,Non-Fiction,2000,9.11,38
+488,Synergistic system-w,Desiree Olson,Romance,1909,37.95,17
+489,Reduced solution-ori,Todd Osborn,Biography,1950,13.83,17
+490,Multi-layered motiva,Mrs. Stacy Middleton,Non-Fiction,1966,37.36,54
+491,Implemented backgrou,Katherine Simmons,Science Fiction,1900,21.79,26
+492,Synergistic eco-cent,Jorge Jennings,Fantasy,1968,31.26,51
+493,Robust asynchronous ,Dustin Lozano,Science Fiction,1962,41.77,27
+494,Robust client-server,Austin Villanueva,Fantasy,1908,45.34,54
+495,Front-line composite,Patricia Gray,Mystery,1997,24.8,88
+496,Grass-roots zero tol,Abigail Sanford,Non-Fiction,2012,12.73,12
+497,Secured national arr,Paige Brown,Science Fiction,1960,39.57,31
+498,Quality-focused valu,David Gordon,Fantasy,1909,42.65,99
+499,Pre-emptive coherent,Johnathan Moore,Mystery,1927,6.02,71
+500,Programmable explici,Lauren Gill,Fantasy,2016,14.9,43
